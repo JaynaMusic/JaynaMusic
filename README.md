@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @JaynaMusic
-- 👀 I’m interested in Music and Crypto
-- 🌱 I’m currently learning Music Production
-- 💞️ I’m looking to collaborate with y'all
-- 📫 How to reach me djoyness14@gmail.com
-
-<!---
-JaynaMusic/JaynaMusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Joe Lyimo, also known as FYJ, is a dynamic musician and visual artist from Tanzania. Since beginning his musical journey in 2017, Joe has earned accolades such as the Goethe Talents Scholarship in Berlin and the Uvumbuzi Residency Program in Nairobi. Blending traditional Tanzanian sounds with contemporary urban styles, he creates a unique and compelling artistic voice. Joe is a passionate advocate for LGBTQ+ rights, performing SAFE/anonymous shows and integrating AI into his visual art for immersive experiences. His advocacy extends to his work with Harmony for Health, a project leveraging music therapy to provide culturally relevant mental health support in Tanzania. Additionally, Joe actively participates in community projects like Sanaa za Usawa, empowering LGBTQIA+ groups through educative workshops and safe spaces, using his talents to drive social change and innovation.
